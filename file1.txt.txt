@@ -1,0 +1,3 @@
+Dilip,24,male,sbin,101010101010, 20000
+Rahul, 32, male, idfc,20202020020, 40000
+kajol, 25, female, kkbk,3030303030, 35000
